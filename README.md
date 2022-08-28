@@ -47,16 +47,11 @@ npm run test
 
 To run Agreeena Cypress Automated Test
 
-### Run in headless mode
-
-```
-npm run cy:run
-```
-
 ### Opens cypress modal
 
 ```
 npm run cy:open
+```
 
 ### Copyright and license
 

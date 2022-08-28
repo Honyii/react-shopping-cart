@@ -30,8 +30,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint ./src",
     "format": "prettier --write \"**/*.+(ts|tsx|js|json|css)\"",
-    "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:open": "cypress open"
   },
   "jest": {
     "collectCoverageFrom": [
