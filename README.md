@@ -53,6 +53,12 @@ To run Agreeena Cypress Automated Test
 npm run cy:open
 ```
 
+### Github Actions
+
+```
+On every push
+```
+
 ### Copyright and license
 
 The MIT License (MIT). Please see License File for more information.

@@ -1,9 +1,5 @@
 class Shopping {
   static pickSize() {
-    cy.get('iframe').then((el) => {
-      const myIframe = el.contents().find('button:contains("X")');
-      cy.wrap(myIframe).click();
-    });
     cy.get('h4:contains("Sizes:")').should('be.visible');
     cy.get('.checkmark').contains('XS').click();
     cy.get('.checkmark').contains('ML').click();
