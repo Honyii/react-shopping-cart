@@ -43,6 +43,21 @@ npm run test
 
 ```
 
+## Project Name
+
+To run Agreeena Cypress Automated Test
+
+### Run in headless mode
+
+```
+npm run cy:run
+```
+
+### Opens cypress modal
+
+```
+npm run cy:open
+
 ### Copyright and license
 
 The MIT License (MIT). Please see License File for more information.
@@ -54,3 +69,4 @@ The MIT License (MIT). Please see License File for more information.
 <p align="center">
 <sub>A little project by <a href="http://www.jeffersonribeiro.com/">Jefferson Ribeiro</a></sub>
 </p>
+```
