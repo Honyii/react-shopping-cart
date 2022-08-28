@@ -53,6 +53,12 @@ To run Agreeena Cypress Automated Test
 npm run cy:open
 ```
 
+### Opens cypress in headless mode
+
+```
+npm run cy:run
+```
+
 ### Github Actions
 
 ```
