@@ -65,6 +65,13 @@ npm run cy:run
 On every push
 ```
 
+### Note: Incase of failure during Build
+
+```
+Sometimes, an eslint error occurs after starting the application. This error is from the application itself and not from Cypress but No worries!
+When this happens, go to cypress/e2e/pageObjects/Shopping.js and comment out the code there and run again.
+```
+
 ### Copyright and license
 
 The MIT License (MIT). Please see License File for more information.
